@@ -6,6 +6,7 @@ pkgs.mkShell {
     rustc
     cargo
     SDL2
+    rust-analyzer
   ];
 
   # Optionally, you can define environment variables or run commands when entering the shell.
